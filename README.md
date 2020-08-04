@@ -1,2 +1,2 @@
 # ProffyNLW
-:pencil: Uma plataforma de estudos online.
+:pencil: A sua plataforma de estudos online.
